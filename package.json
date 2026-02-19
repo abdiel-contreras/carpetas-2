@@ -1,0 +1,9 @@
+{
+  "name": "proyecto-autenticacion-framework",
+  "version": "1.0.0",
+  "main": "src/app.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-session": "^1.17.3"
+  }
+}
